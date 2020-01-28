@@ -9,4 +9,4 @@ D - movement right\
 Arrow up - shoot up\
 Arrow left - shoot left\
 Arrow down - shoot down\
-Arrow right - shoot right\
+Arrow right - shoot right
