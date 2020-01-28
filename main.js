@@ -149,7 +149,7 @@ Zombie.prototype.draw = function() {
 function Owlkin(game) {
     this.animation = new Animation(AM.getAsset("./img/Owlet.png"), 0, 0, 31, 34, .2, 6, true, false, 2);
     this.idle = true;
-    this.speed = 50;
+    this.speed = 100;
     //this.idle_animation = new Animation(AM.getAsset("./img/Owlet.png"), 0, 0, 30, 32, .1, 2, true, false, 1);
     Entity.call(this, game, 300, 635);
 }
