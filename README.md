@@ -1,3 +1,4 @@
+Joseph Rushford
 # FirstAnimationJavaScript
 
 Controls of the "Owlkin sprite" (aka the sprite moving in place):\
